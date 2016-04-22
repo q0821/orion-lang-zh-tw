@@ -1,6 +1,6 @@
 # orion-lang-zh-tw
 
-Traditional chinese Chinese translations for Orion
+Traditional Chinese translations for Orion
 
 ### Usage
 ```
@@ -21,7 +21,7 @@ T9n.setLanguage(language);
 Because the language here is 'zh-TW', and will be spilited into 'zh',
 so maybe you need to set the correct language in your code again.
 
-And for T9n, the Simplified Chinese is set by `T9n.setLanguage('zh_tw')`.
+And for T9n, the Traditional Chinese is set by `T9n.setLanguage('zh_tw')`.
 
 Here is init of i18n example.
 
